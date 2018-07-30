@@ -7,8 +7,6 @@ I added this file from a new clone!
 Now I added a new line!
 I added this line from the GitHub web interface!
 This line was added by Taylor Barnes.
-
-
 Now this is podracing. - wamillik
 
 **************************************
