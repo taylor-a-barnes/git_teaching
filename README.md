@@ -8,7 +8,7 @@ This is a simple example
 
 ### Copyright
 
-Copyright (c) 2018, Benjamin Pritchard
+Copyright (c) 2018, Taylor Barnes
 
 
 #### Acknowledgements
